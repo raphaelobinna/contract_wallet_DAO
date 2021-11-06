@@ -1,7 +1,7 @@
 'reach 0.1';
 
 export const main = Reach.App(() => {
-  const Evans = Participant('Evans', {
+  const Evance = Participant('Evans', {
     // Specify Evans's interact interface here
   });
   const Raphael   = Participant('Raphael', {
